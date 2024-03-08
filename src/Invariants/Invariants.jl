@@ -454,12 +454,11 @@ export MinimumTotalDominatingSet
 export TotalDominationNumber
 export total_domination_number
 
-#TODO Implement these
-# export MinimumLocatingDominatingSet
-# export LocatingDominationNumber
+export locating_domination_number
+export MinimumLocatingDominatingSet
 
-# export MinimumPairedDominatingSet
-# export PairedDominationNumber
+export paired_domination_number
+export MinimumPairedDominatingSet
 
 export MinimumPowerDominatingSet
 export PowerDominationNumber
